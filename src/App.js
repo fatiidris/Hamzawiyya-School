@@ -7,6 +7,7 @@ import TermsCon from './Pages/TermsCon';
 import Admission from './Pages/Admission';
 import Secondary from './Pages/Secondary';
 import Islamiyyah from './Pages/Islamiyyah';
+import Gallery from './Pages/Gallery';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/Secondary" element={<Secondary />} />
         <Route path="/Islamiyyah" element={<Islamiyyah />} />
         <Route path="/TermsCon" element={<TermsCon />} />
+        <Route path="/Gallery" element={<Gallery />} />
         <Route path="/Admission" element={<Admission/>} />
      </Routes>
      </BrowserRouter>

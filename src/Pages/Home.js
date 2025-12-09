@@ -94,21 +94,21 @@ return(
             <h3>Holistic Development</h3>
             <p>Nurturing academic, creative, emotional, and physical
                  growth at every stage of a child's journey.</p>
-                 <Link to="#">See Gallery</Link>
+                 <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
                  <img src={image11} alt="Students" className="std" /> 
             <h3>Innovative STEAM</h3>
             <p>Building 21st-century skills with <br /> hands-on Science, 
                 Technology, <br /> Engineering, Arts, and Mathematics <br /> projects.</p>
-        <Link to="#">See Gallery</Link>
+        <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
                  <img src={image8} alt="Students" className="std" /> 
             <h3>Academic Excellence</h3>
             <p>Consistently high exam results and university placements,
                  preparing students for global success.</p>
-                 <Link to="#">See Gallery</Link>
+               <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
         </div>
      </div>       
