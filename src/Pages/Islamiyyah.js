@@ -12,19 +12,16 @@ return(
     </div>
      <div className="sections adm">
        <h1>About Islamiyyah Training</h1>
-       <p>Our Islamiyya Section provides quality Islamic education alongside standard
-         Western academic learning. We are committed to nurturing spiritually grounded,
-          disciplined, and morally upright students through structured Islamic learning
-         programs tailored to different age categories. This section ensures that every 
-         learner receives balanced moral, religious, and academic development
-          rooted in Islamic values and knowledge.</p>
+       <p>Our Islamiyya Section is committed to providing sound Islamic education based 
+        strictly on the teachings of the Qur’an and the Sunnah of the Prophet Muhammad (ﷺ), alongside standard Western academic learning. The programme is designed to nurture students who are spiritually conscious, morally upright, and disciplined in character. Through structured and age-appropriate Islamic studies, learners are guided to understand and practise Islamic beliefs, values, and ethics, ensuring balanced moral, religious, 
+        and academic development in accordance with authentic Islamic principles.</p>
 <p>Our mission is to provide a supportive Islamic learning environment that strengthens students' faith, guides them toward righteous living, and equips them with knowledge that supports both religious practice and academic success.</p>
 
   <div className="sections-col">
       <div className="sections-row">
  <h3>Areas of Study</h3>
 <ol>
-<li>Qur'an Recitation and Memorization (Hifz)</li>
+<li>Qur'an Recitation and Memorization (Tahfiz)</li>
 <li>Tajweed (Rules of Qur'anic Recitation)</li>
 <li>Islamic Jurisprudence (Fiqh)</li>
 <li>Aqeedah (Islamic Creed)</li>
@@ -38,14 +35,14 @@ return(
    </div>
 
 <div className="sections-row">
-  <h3>Qur'an Studies (Tilawah & Hifz)</h3>
+  <h3>Qur'an Studies (Tilawah & Tahfiz)</h3>
 <p>Students receive personalized Qur'anic training including:</p>
 <ul>
 <li>Step-by-step recitation learning</li>
 <li>Memorization targets per level</li>
 <li>Daily practice tracking</li>
 <li>Tajweed rules and correction sessions</li>
-<li>Group and individual recitation</li>
+<li>Group and Individual Recitation</li>
 <li>Exceptional students are guided toward full Qur'an memorization.</li>
 </ul>
 </div>

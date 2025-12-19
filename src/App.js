@@ -13,17 +13,17 @@ function App() {
   return (
     <div>
       <BrowserRouter>
-      <Routes>
-        <Route index element={<Home />} />
-        <Route path="/Login" element={<Home />} />
-        <Route path="/Nursery" element={<Nursery />} />
-        <Route path="/Primary" element={<Primary />} />
-        <Route path="/Secondary" element={<Secondary />} />
-        <Route path="/Islamiyyah" element={<Islamiyyah />} />
-        <Route path="/TermsCon" element={<TermsCon />} />
-        <Route path="/Gallery" element={<Gallery />} />
-        <Route path="/Admission" element={<Admission/>} />
-     </Routes>
+        <Routes>
+          <Route index element={<Home />} />
+          <Route path="/Login" element={<Home />} />
+          <Route path="/Nursery" element={<Nursery />} />
+          <Route path="/Primary" element={<Primary />} />
+          <Route path="/Secondary" element={<Secondary />} />
+          <Route path="/Islamiyyah" element={<Islamiyyah />} />
+          <Route path="/TermsCon" element={<TermsCon />} />
+          <Route path="/Admission" element={<Admission/>} />
+          <Route path="/Gallery" element={<Gallery/>} />
+      </Routes>
      </BrowserRouter>
     </div>
   );

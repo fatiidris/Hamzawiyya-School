@@ -56,12 +56,12 @@ return(
 <div className="sections-row">
  <h3>Co-Curricular & Leadership Development</h3>
      <ol>
-     <li>Debate, spelling bee, quiz competitions</li>
-     <li>Journalism, press clubs, literary & debating societies</li>
-     <li>Leadership and prefectship roles</li>
-     <li>Cultural and arts presentations</li>
-     <li>Excursions, tours, and inter-school competitions</li>
-     <li>Community service and mentoring sessions</li>
+     <li>Debate, Spelling Bee, Quiz Competitions</li>
+     <li>Journalism, Press Clubs, Literary & Debating Societies</li>
+     <li>Leadership and Prefectship Roles</li>
+     <li>Islamic Values–based Cultural Presentations</li>
+     <li>Excursions, Tours, and Inter-school Competitions</li>
+     <li>Community Service and Mentoring Sessions</li>
    </ol>
 </div>
 
@@ -80,10 +80,10 @@ return(
 <h3>Learning Environment</h3>
 <p>Our primary learning environment features:</p>
 <ol>
-<li>Well-equipped classrooms</li>
-<li>Modern instructional materials</li>
-<li>Safe and supportive learning spaces</li>
-<li>Qualified and caring educators</li>
+<li>Well-equipped Classrooms</li>
+<li>Modern Instructional Materials</li>
+<li>Safe and Supportive Learning spaces</li>
+<li>Qualified and Caring Educators</li>
 </ol>
 </div>
       </div>

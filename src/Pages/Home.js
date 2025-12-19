@@ -13,17 +13,16 @@ return(
     <div className="hero-img" id="Home">
         <div className="hero-text">
             <h1>An-nur Islamic School</h1>
-            <p>From foundational learning in Nursery to advanced academic
-            preparation in Secondary, we inspire a lifelong love for
-            learning and equip students for global success.</p>
-            <a href="#"><button className="btn">Begin Your Children's Journey</button></a>
+            <p>From a strong foundation in Nursery education to advanced academic preparation at the Secondary level, we foster a lifelong passion for learning and equip students 
+                with the knowledge and skills required for global success.</p>
+            <Link className="link" to="/Admission"><button className="btn">Begin Your Children's Journey</button></Link>
         </div>
      </div>
 
 
      <div className="sections" id="About">
         <h1>Our Core Values</h1>
-        <p>We are dedicated to providing an enriching, stimulating, 
+        <p>We are dedicated to providing and enriching, stimulating, 
             and supportive educational <br /> environment that empowers 
             every student to reach their full potential.</p>
             <div className="sections-col">
@@ -42,8 +41,8 @@ return(
                 <div className="sections-row">
                 <i className="fa-solid fa-award"></i>
             <h3>Academic Excellence</h3>
-            <p>Consistently high exam results and university placements,
-                 preparing students for global success.</p>
+            <p>Strong academic performance with quality instruction that prepares 
+                students for higher education and lifelong success.</p>
         </div>
         </div>
      </div>
@@ -79,8 +78,8 @@ return(
          <div className="sections-row">
                 <i className="fa-solid fa-user-graduate"></i>
             <h3>Islamiyyah Training</h3>
-            <p>Rigorous academics, leadership opportunities, 
-            and comprehensive preparation for university entrance exams.</p>
+            <p>Islamic education based on the Qur’an and Sunnah, focusing on moral discipline,
+                 sound character, and spiritual growth.</p>
              <Link className="link" to="/Islamiyyah"><button className="btn">Learn about Islamiyyah</button></Link>
         </div>
         </div>
@@ -94,7 +93,7 @@ return(
             <h3>Holistic Development</h3>
             <p>Nurturing academic, creative, emotional, and physical
                  growth at every stage of a child's journey.</p>
-                 <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
+                <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
                  <img src={image11} alt="Students" className="std" /> 
@@ -108,7 +107,7 @@ return(
             <h3>Academic Excellence</h3>
             <p>Consistently high exam results and university placements,
                  preparing students for global success.</p>
-               <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
+                 <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
         </div>
      </div>       
@@ -137,9 +136,9 @@ return(
      <div className="sections" id="Contact">
         <h1>Connect With Us</h1>
         <p>We'd love to hear from you. Reach out to learn more or schedule a visit.</p>
-        <p><b>Email:</b> info@annur.com</p>
-        <p><b>Phone:</b> +2347087902216</p>
-        <p><b>Address:</b> Brighter Junction, Minna, Niger State</p>
+        <p><b>Email:</b> annureduservices@gmail.com</p>
+        <p><b>Phone:</b> +2348035181355</p>
+        <p><b>Address:</b> Location Off Brighter Road Before NECO Staff Quarters, Brighter Area, Minna, Niger State</p>
         <button className="btn">Send a Message</button>
         </div> 
 
