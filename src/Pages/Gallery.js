@@ -5,17 +5,17 @@ function Gallery(){
     return(
         <div className="sections">
             <h1>Gallery</h1>
-            <div className="gallery">
+            <div className="gallery-row">
             <img src={image2} alt="Students" className="std" />
             <img src={image8} alt="Students" className="std" />
             <img src={image11} alt="Students" className="std" />
             </div>
-             <div className="gallery">
+             <div className="gallery-row">
             <img src={image2} alt="Students" className="std" />
             <img src={image8} alt="Students" className="std" />
             <img src={image11} alt="Students" className="std" />
             </div>
-             <div className="gallery">
+             <div className="gallery-row">
             <img src={image2} alt="Students" className="std" />
             <img src={image8} alt="Students" className="std" />
             <img src={image11} alt="Students" className="std" />
