@@ -114,17 +114,17 @@ return(
      </div>       
 
      <div className="sections">
-        <h1>Your Path to An-Nur</h1>
+        <h1>Your Path to Hamzawiyya</h1>
         <p>Our admissions process is designed to be straightforward 
         and supportive, guiding your family every step of the way.</p>
-       <iframe src="https://www.google.com/maps/embed?pb=!4v1766956537875!6m8!1m7!1sEfhns5v73m92rW4YXFI3Aw!2m2!1d9.594266858986323!2d6.516703330700961!3f270!4f-6.464723926380358!5f1.1924812503605782" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!4v1766956537875!6m8!1m7!1sEfhns5v73m92rW4YXFI3Aw!2m2!1d9.594266858986323!2d6.516703330700961!3f270!4f-6.464723926380358!5f1.1924812503605782" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
 
         <div className="sections blue-bg" id="Testimonies">
         <h1>Hear from our community</h1>
         <div className="sections-row">
-        "Choosing An-Nur Model Ismalic Academy for our children, from Nursery 
+        "Choosing Hamzawiyya Ismalic Academy for our children, from Nursery 
         right through to Secondary, has been the best decision. 
         The school fosters not just academic growth, but also 
         incredible character and confidence. We couldn't be 
@@ -137,7 +137,7 @@ return(
      <div className="sections" id="Contact">
         <h1>Connect With Us</h1>
         <p>We'd love to hear from you. Reach out to learn more or schedule a visit.</p>
-        <p><b>Email:</b> annureduservices@gmail.com</p>
+        <p><b>Email:</b> hamzatislamicschool@gmail.com</p>
         <p><b>Phone:</b> +2348036849688</p>
         <p><b>Address:</b> Location Off Brighter Road Before NECO Staff Quarters, Brighter Area, Minna, Niger State</p>
         <button className="btn">Send a Message</button>
