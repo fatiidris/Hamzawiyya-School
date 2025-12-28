@@ -117,7 +117,7 @@ return(
         <h1>Your Path to An-Nur</h1>
         <p>Our admissions process is designed to be straightforward 
         and supportive, guiding your family every step of the way.</p>
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1967.0964483171242!2d6.555031043719149!3d9.578634526114513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104c730ae8c52f0f%3A0xdfd4bb190f674256!2sANNUR%20MODEL%20ISLAMIC%20SCHOOL!5e0!3m2!1sen!2sng!4v1764855153568!5m2!1sen!2sng" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+       <iframe src="https://www.google.com/maps/embed?pb=!4v1766956537875!6m8!1m7!1sEfhns5v73m92rW4YXFI3Aw!2m2!1d9.594266858986323!2d6.516703330700961!3f270!4f-6.464723926380358!5f1.1924812503605782" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
 
