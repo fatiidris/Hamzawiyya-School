@@ -22,33 +22,33 @@ return(
   <div className="sections-col">
       <div className="sections-row">
 <h3>Science & Technology</h3>
-            <ol>
-              <li>Mathematics & Further Mathematics</li>
-              <li>Basic Science, Biology, Chemistry, and Physics</li>
-              <li>Computer Studies, ICT, Coding Concepts</li>
-            </ol>
+    <ol>
+      <li>Mathematics & Further Mathematics</li>
+      <li>Basic Science, Biology, Chemistry, and Physics</li>
+      <li>Computer Studies, ICT, Coding Concepts</li>
+    </ol>
    </div>
 
 <div className="sections-row">
 <h3>Arts & Humanities</h3>
-            <ol>
-              <li>English Language & Literature-in-English</li>
-              <li>Civic Education, Government</li>
-              <li>Social Studies</li>
-              <li>History</li>
-            </ol>
+      <ol>
+        <li>English Language & Literature-in-English</li>
+        <li>Civic Education, Government</li>
+        <li>Social Studies</li>
+        <li>History</li>
+      </ol>
 </div>
 
 <div className="sections-row">
   <h3>Business, Finance & Entrepreneurship</h3>
-            <ol>
-              <li>Business Studies</li>
-              <li>Financial Accounting</li>
-              <li>Basic Economics</li>
-              <li>Entrepreneurship Education</li>
-            </ol>
-            <p>Students receive structured guidance toward WAEC,
-             NECO, and other standardized examinations.</p>
+    <ol>
+      <li>Business Studies</li>
+      <li>Financial Accounting</li>
+      <li>Basic Economics</li>
+      <li>Entrepreneurship Education</li>
+    </ol>
+    <p>Students receive structured guidance toward WAEC,
+      NECO, and other standardized examinations.</p>
 </div>
 </div>
 
@@ -67,24 +67,24 @@ return(
 
 <div className="sections-row">
 <h3>Practical & Lab-Based Learning</h3>
-       <p>To ensure deep understanding, students participate in:</p>
-       <ol>
-         <li>Laboratory experiments</li>
-         <li>ICT-based learning</li>
-         <li>Science fairs and innovation projects</li>
-         <li>Coding and software application training</li>
-       </ol>
+    <p>To ensure deep understanding, students participate in:</p>
+    <ol>
+      <li>Laboratory experiments</li>
+      <li>ICT-based learning</li>
+      <li>Science fairs and innovation projects</li>
+      <li>Coding and software application training</li>
+    </ol>
 </div>
 
 <div className="sections-row">
 <h3>Learning Environment</h3>
-<p>Our primary learning environment features:</p>
-<ol>
-<li>Well-equipped Classrooms</li>
-<li>Modern Instructional Materials</li>
-<li>Safe and Supportive Learning spaces</li>
-<li>Qualified and Caring Educators</li>
-</ol>
+    <p>Our primary learning environment features:</p>
+  <ol>
+    <li>Well-equipped Classrooms</li>
+    <li>Modern Instructional Materials</li>
+    <li>Safe and Supportive Learning spaces</li>
+    <li>Qualified and Caring Educators</li>
+  </ol>
 </div>
       </div>
        <Link className="link" to="/"><button className="btn">Back to Home</button></Link>

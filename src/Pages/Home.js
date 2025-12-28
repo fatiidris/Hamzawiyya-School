@@ -12,7 +12,7 @@ return(
 
     <div className="hero-img" id="Home">
         <div className="hero-text">
-            <h1>An-Nur Model Islamic School, Minna</h1>
+            <h1>Hamzawiyya Islamic School, Minna</h1>
             <p>From a strong foundation in Nursery education to advanced academic preparation at the Secondary level, we foster a lifelong passion for learning and equip students 
                 with the knowledge and skills required for global success.</p>
             <Link className="link" to="/Admission"><button className="btn">Begin Your Children's Journey</button></Link>
@@ -138,7 +138,7 @@ We are An-Nur—shining like a star </p>
         <h1>Connect With Us</h1>
         <p>We'd love to hear from you. Reach out to learn more or schedule a visit.</p>
         <p><b>Email:</b> annureduservices@gmail.com</p>
-        <p><b>Phone:</b> +2348035181355</p>
+        <p><b>Phone:</b> +2348036849688</p>
         <p><b>Address:</b> Location Off Brighter Road Before NECO Staff Quarters, Brighter Area, Minna, Niger State</p>
         <button className="btn">Send a Message</button>
         </div> 

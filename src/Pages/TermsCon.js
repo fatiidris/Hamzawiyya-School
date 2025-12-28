@@ -7,18 +7,18 @@ return (
     <>
     <NavBar />
     <div className="blank">
-          <h1>Terms and Conditions for An-Nur</h1>
+          <h1>Terms and Conditions for Hamzawiyya</h1>
 <p>Last Updated: 18th/11/2025</p>
-<h2>Welcome to An-Nur.</h2>
+<h2>Welcome to Hamzawiyya.</h2>
 <p>By accessing or using our website and services, you agree to follow
  and be bound by the Terms and Conditions outlined below. Please read them carefully.</p>
 
 <h3>1.	Acceptance of Terms</h3>
-<p>By using An-Nur website, you confirm that you have read, understood, and agree to comply with these Terms and Conditions.
+<p>By using Hamzawiyya website, you confirm that you have read, understood, and agree to comply with these Terms and Conditions.
 If you do not agree, please stop using our platform.</p>
 
 <h3>2.	Eligibility</h3>
-<p>You must be at least 13 years old to use An-Nur.
+<p>You must be at least 13 years old to use Hamzawiyya.
 By using the platform, you represent that you meet this requirement.</p>
 
 <h3>3.	Use of Our Services</h3>
@@ -32,7 +32,7 @@ You must not:</p>
 </ul>
 
 <h3>4.	User Accounts</h3>
-<p>When creating an account on An-Nur, you agree to:</p>
+<p>When creating an account on Hamzawiyya, you agree to:</p>
 <ul>
 <li> Provide accurate and complete information </li>
 <li> Keep your login details confidential</li>
@@ -41,17 +41,17 @@ You must not:</p>
 </ul>
 
 <h3>5.	Intellectual Property Rights</h3>
-<p>All content on An-Nur—including text, graphics, icons, tutorials, trainings, images, branding, and other digital materials—is the property of Cardlect or its content creators.
+<p>All content on Hamzawiyya—including text, graphics, icons, tutorials, trainings, images, branding, and other digital materials—is the property of Cardlect or its content creators.
 You agree not to:</p>
 <ul>
 <li>Copy, reproduce, or redistribute any content without permission</li>
-<li>Use An-Nur's content for commercial purposes without authorization </li>
-<li>Claim ownership of any An-Nur material</li>
+<li>Use Hamzawiyya's content for commercial purposes without authorization </li>
+<li>Claim ownership of any Hamzawiyya material</li>
 </ul>
 
 <ul>
 <h3>6.	User-Generated Content</h3>
-<p>If you upload, submit, or share content on An-Nur, you:</p>
+<p>If you upload, submit, or share content on Hamzawiyya, you:</p>
 <li>Grant us a non-exclusive license to use, display, and distribute the content</li>
 <li>Confirm that your content does not violate any laws or third-party rights</li>
 <li>Take full responsibility for your submissions</li>
@@ -59,7 +59,7 @@ You agree not to:</p>
 </ul>
 
 <h3>7.	Third-Party Links</h3>
-<p>An-Nur may contain links to third-party websites or services.
+<p>Hamzawiyya may contain links to third-party websites or services.
 We are not responsible for:</p>
 <ul>
 <li>Their content</li>
@@ -69,18 +69,18 @@ We are not responsible for:</p>
 </ul>
 
 <h3>8.	Limitation of Liability</h3>
-<p>An-nur is not liable for:</p>
+<p>Hamzawiyya is not liable for:</p>
 <ul>
 <li>Loss of data</li>
 <li>Damages arising from website errors or downtime</li>
 <li>Unauthorized access caused by user negligence</li>
 <li>Losses resulting from third-party actions</li>
 <li>Harm arising from the misuse of our services</li>
-<li>You use An-nur at your own risk.</li>
+<li>You use Hamzawiyya at your own risk.</li>
 </ul>
 
 <h3>9.	Disclaimer of Warranties</h3>
-<p>An-nur is provided “as is” and “as available.”
+<p>Hamzawiyya is provided “as is” and “as available.”
 We do not guarantee that:</p>
 <ul>
 <li>The website will always be available or error-free</li>
@@ -94,7 +94,7 @@ We do not guarantee that:</p>
 <li>You violate these Terms</li>
 <li>Legal requirements demand it </li>
 <li>We decide to discontinue or modify the platform </li>
-<li>You may stop using An-nur anytime. </li>
+<li>You may stop using Hamzawiyya anytime. </li>
 </ul>
 
 <h3>11.	Changes to These Terms</h3>
@@ -108,7 +108,7 @@ Any disputes will be handled under Nigerian legal jurisdiction.</p>
 <h3>13.	Contact Us</h3>
 <p>For questions or concerns about these Terms, contact us:</p>
 <ul>
-<li>📧 annureduservices@gmail.com </li>
+<li>📧 hamzawiyya@gmail.com </li>
 <li>🌍 Nigeria </li>
 </ul>
     </div>
