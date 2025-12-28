@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../Components/Assets/logo.jpg";
+import logo from "../Components/Assets/logo.jpeg";
 import { Link } from "react-router-dom";
 
 
@@ -13,7 +13,7 @@ function NavBar() {
         <nav>
             <div className="logo">
                 <img src={logo} alt="Logo" className="nav-logo" />
-                <h4>An-Nur Model <br />Islamic School, Minna</h4>
+                <h4>Hamzawiyya <br />Islamic School, Minna</h4>
             </div>
 
             <ul className="nav-links" id="checkmenu" style={{ right: isMenuOpen ? "0" : "-500px" }}>
