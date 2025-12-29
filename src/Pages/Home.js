@@ -12,9 +12,10 @@ return(
 
     <div className="hero-img" id="Home">
         <div className="hero-text">
-            <h1>Hamzawiyya Islamic School, Minna</h1>
-            <p>From a strong foundation in Nursery education to advanced academic preparation at the Secondary level, we foster a lifelong passion for learning and equip students 
-                with the knowledge and skills required for global success.</p>
+            <h1>Hamzat Islamic School, Minna</h1>
+            <p>We provide a well-structured educational journey from Nursery to Secondary level, 
+                delivering academic excellence, character development, and 
+                critical skills that prepare students for higher education, excell at global stage and achieve spiritual fulfilment.</p>
             <Link className="link" to="/Admission"><button className="btn">Begin Your Children's Journey</button></Link>
         </div>
      </div>
@@ -22,28 +23,27 @@ return(
 
      <div className="sections" id="About">
         <h1>Our Core Values</h1>
-        <p>With faith in Allah, we stand strong,
-        We learn and strive all day long. <br />Respect and humility guide our way,
-         With modesty and self-control every day.  <br />We serve our community, near and far,
-           We are An-Nur—shining like a star </p>
+        <p>We promote knowledge rooted in faith to Allah, discipline, respect, and humility.
+           We uphold modesty, <br />self-control, and service to humanity, nurturing learners who excel academically and morally. In essence, it is a school where ideal muslims emerged. </p>
             <div className="sections-col">
         <div className="sections-row">
              <i className="fa-solid fa-seedling"></i> 
             <h3>Holistic Development</h3>
-            <p>Nurturing academic, creative, emotional, and physical
-                 growth at every stage of a child's journey.</p>
+            <p>We foster balanced growth by developing each child’s academic ability, with emphasis on specila need of every child, creativity, 
+                emotional well-being, and physical strength at every stage of learning.</p>
         </div>
                 <div className="sections-row">
                 <i className="fa-solid fa-flask"></i>
             <h3>Innovative STEAM</h3>
-            <p>Building 21st-century skills with <br /> hands-on Science, 
-                Technology, <br /> Engineering, Arts, and Mathematics <br /> projects.</p>
+            <p>We inspire creativity and  <br />problem-solving <br /> through class room engagement
+              <br />and practical STEAM projects  <br />that do not only prepare learners  <br />but, also ready for the future and its challenges.</p>
         </div>
                 <div className="sections-row">
                 <i className="fa-solid fa-award"></i>
             <h3>Academic Excellence</h3>
-            <p>Strong academic performance with quality instruction that prepares 
-                students for higher education and lifelong success.</p>
+            <p>Delivering high-quality instruction that empowers students to 
+                achieve outstanding academic 
+                results and prepares them for higher education and lifelong success.</p>
         </div>
         </div>
      </div>
@@ -54,8 +54,9 @@ return(
         <div className="sections-row">
              <i className="fa-solid fa-child"></i> 
             <h3>Nursery School <br />(Ages 3-5)</h3>
-            <p>A vibrant, play-based environment fostering 
-            early literacy, numeracy, and essential social-emotional skills.</p>
+            <p>Providing a stimulating, play-oriented environment that boost 
+                intellectual growth, 
+                social development, and provide essential foundation for technical skills.</p>
            <Link className="link" to="/Nursery"><button className="btn">Explore Nursery</button></Link>
         </div>
                 <div className="sections-row">

@@ -14,10 +14,10 @@ function Nursery() {
 
     <div className="sections adm">
        <h1>Welcome to Nursery Section</h1>
-        <p>where learning begins with smiles, creativity, and confidence!</p>
-<p>At this stage, we focus on helping children grow emotionally, socially,
-   physically, and intellectually through fun-filled, age-appropriate activities.
-    Our nursery classrooms are safe, child-friendly, and designed to spark curiosity and early learning.</p>
+        <p> Learning begins here, with smiles, creativity, and confidence developed.</p>
+<p>At this stage, the emphasis is on helping children grow emotionally, socially,
+   physically, and intellectually through fun-filled, aligning with appropriate activities for each.
+    Our nursery classrooms are safe, child-friendly and designed to spark curiosity and early learning.</p>
 
   <div className="sections-col">
       <div className="sections-row">
@@ -26,6 +26,7 @@ function Nursery() {
 <li>Arts and craft</li>
 <li>Music, rhymes and movement</li>
 <li>Hands-on games</li>
+<li>Phonics</li>
 <li>Dramatic play and role-based activities</li>
 </ol>
    </div>
@@ -35,9 +36,9 @@ function Nursery() {
 <ol>
 <li>Early Learning Skills</li>
 <li>Pre-reading and early literacy activities</li>
-<li>Number recognition and counting</li>
+<li>Numbers, counting and letters recognition</li>
 <li>Shape, colour and object identification</li>
-<li>Picture-based learning and storytelling</li>
+<li>Picture-based and storytelling learning </li>
 </ol>
 </div>
 
@@ -47,7 +48,10 @@ function Nursery() {
 <li>Problem-solving toys</li>
 <li>Matching, sorting, and sequencing</li>
 <li>Pattern recognition</li>
-<li>Early science concepts</li>
+<li>Observation and classification exercises</li>
+<li>Early reasoning and critical thinking tasks</li>
+<li>Simple counting and number games</li>
+
 </ol>
 </div>
 </div>
@@ -56,10 +60,10 @@ function Nursery() {
 <div className="sections-row">
 <h3>Language & Communication Skills</h3>
 <ol>
-<li>Speak simple sentences confidently</li>
+<li>communicate in elementary English and Arabic language with confidence</li>
 <li>Identify objects by name</li>
 <li>Sing rhymes and songs</li>
-<li>Improve vocabulary daily</li>
+<li> Daily vocabulary building</li>
 </ol>
 </div>
 
