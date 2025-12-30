@@ -93,22 +93,24 @@ return(
         <div className="sections-row">
              <img src={image2} alt="Students" className="std" /> 
             <h3>Holistic Development</h3>
-            <p>Nurturing academic, creative, emotional, and physical
-                 growth at every stage of a child's journey.</p>
+            <p>We foster balanced growth by developing each child’s academic ability, with emphasis on specila need of every child, creativity, 
+                emotional well-being, and physical strength at every stage of learning.</p>
                 <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
                  <img src={image11} alt="Students" className="std" /> 
             <h3>Innovative STEAM</h3>
-            <p>Building 21st-century skills with <br /> hands-on Science, 
-                Technology, <br /> Engineering, Arts, and Mathematics <br /> projects.</p>
+            <p>We inspire creativity and  <br />problem-solving <br /> through class room engagement
+              <br />and practical STEAM projects  <br />that do not only prepare learners 
+               <br />but, also ready for the future and its challenges.</p>
         <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
                  <img src={image8} alt="Students" className="std" /> 
             <h3>Academic Excellence</h3>
-            <p>Consistently high exam results and university placements,
-                 preparing students for global success.</p>
+            <p>Delivering high-quality instruction that empowers students to 
+                achieve outstanding academic 
+                results and prepares them for higher education and lifelong success.</p>
                  <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
         </div>
