@@ -1,7 +1,7 @@
 import NavBar from "../Components/NavBar";
 import image2 from "../Components/Assets/image2.jpg";
+import image4 from "../Components/Assets/image4.jpg";
 import image8 from "../Components/Assets/image8.jpg";
-import image11 from "../Components/Assets/image11.jpg";
 import Footer from "../Components/Footer";
 import { Link } from "react-router-dom";
 
@@ -98,7 +98,7 @@ return(
                 <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
-                 <img src={image11} alt="Students" className="std" /> 
+                 <img src={image4} alt="Students" className="std" /> 
             <h3>Innovative STEAM</h3>
             <p>We inspire creativity and  <br />problem-solving <br /> through class room engagement
               <br />and practical STEAM projects  <br />that do not only prepare learners 
