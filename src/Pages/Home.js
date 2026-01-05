@@ -120,7 +120,7 @@ return(
         <h1>Your Path to Hamzawiyya</h1>
         <p>Our admissions process is designed to be straightforward 
         and supportive, guiding your family every step of the way.</p>
-      <iframe src="https://www.google.com/maps/embed?pb=!4v1766956537875!6m8!1m7!1sEfhns5v73m92rW4YXFI3Aw!2m2!1d9.594266858986323!2d6.516703330700961!3f270!4f-6.464723926380358!5f1.1924812503605782" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+       <iframe src="https://www.google.com/maps/embed?pb=!4v1767617285914!6m8!1m7!1sEfhns5v73m92rW4YXFI3Aw!2m2!1d9.594266858986323!2d6.516703330700961!3f266.16883264820876!4f-20.223846308714883!5f0.7820865974627469" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
         </div>
 
 
