@@ -92,25 +92,28 @@ return(
      <div className="sections-col">
         <div className="sections-row">
              <img src={image2} alt="Students" className="std" /> 
-            <h3>Holistic Development</h3>
-            <p>We foster balanced growth by developing each child’s academic ability, with emphasis on specila need of every child, creativity, 
-                emotional well-being, and physical strength at every stage of learning.</p>
+            <h3>Student Growth & Well-Being</h3>
+            <p>We have enhanced our student development programs to support every child 
+                academically, emotionally, and physically. Special learning needs are now 
+                more closely monitored, ensuring each learner receives 
+                personalized guidance in a caring and supportive environment.</p>
                 <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
                  <img src={image4} alt="Students" className="std" /> 
-            <h3>Innovative STEAM</h3>
-            <p>We inspire creativity and  <br />problem-solving <br /> through class room engagement
-              <br />and practical STEAM projects  <br />that do not only prepare learners 
-               <br />but, also ready for the future and its challenges.</p>
+            <h3>Future-Ready STEAM Learning</h3>
+            <p>Our STEAM program has been expanded with more hands-on classroom activities 
+                and practical projects.
+                 These initiatives encourage innovation, teamwork, and problem-solving skills,
+                  preparing students for future careers and real-world challenges.</p>
         <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
                 <div className="sections-row">
                  <img src={image8} alt="Students" className="std" /> 
-            <h3>Academic Excellence</h3>
-            <p>Delivering high-quality instruction that empowers students to 
-                achieve outstanding academic 
-                results and prepares them for higher education and lifelong success.</p>
+            <h3>Improved Academic Outcomes</h3>
+            <p>Through strengthened teaching methods and continuous staff training, academic
+                 performance across all levels has improved. Students are better prepared for examinations,
+                 higher education, and long-term academic success.</p>
                  <Link to="/Gallery"><button className="btn">See Gallery</button></Link>
         </div>
         </div>
@@ -127,13 +130,12 @@ return(
         <div className="sections blue-bg" id="Testimonies">
         <h1>Hear from our community</h1>
         <div className="sections-row">
-        "Choosing Hamzawiyya Ismalic Academy for our children, from Nursery 
-        right through to Secondary, has been the best decision. 
-        The school fosters not just academic growth, but also 
-        incredible character and confidence. We couldn't be 
-        happier with the supportive community and the high 
-        standard of education." <br /> <br />
-        — The Kantigi Family, Proud Parents of Three Alumni
+        “Enrolling our children at Hamzawiyya Islamic Academy—from Nursery through 
+        Secondary School—has been one of the most rewarding choices we have made. 
+        The school goes beyond academic excellence by nurturing strong morals, 
+        self-confidence, and discipline in its students. We deeply appreciate the caring 
+        environment and the consistently high quality of education provided.” <br /> <br />
+        — The Musa Family, Thankful Parents of Three Alumni
         </div>
     </div>
 
@@ -141,8 +143,8 @@ return(
         <h1>Connect With Us</h1>
         <p>We'd love to hear from you. Reach out to learn more or schedule a visit.</p>
         <p><b>Email:</b> hamzatislamicschool@gmail.com</p>
-        <p><b>Phone:</b> +2348036849688</p>
-        <p><b>Address:</b> Location Off Brighter Road Before NECO Staff Quarters, Brighter Area, Minna, Niger State</p>
+        <p><b>Phone:</b> +2348030595564/07065678918</p>
+        <p><b>Address:</b> Gurara Area, Opposite Federaal Housing Estate, Off Bida Road, Minna, Niger State</p>
         <button className="btn">Send a Message</button>
         </div> 
 
